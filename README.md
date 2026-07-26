@@ -7,6 +7,10 @@ microservicios y soluciones de IA.
 
 Proyecto final del **Challenge Alura Agente** (curso de Cloud Computing – Alura).
 
+🔗 Aplicación funcionando: https://alura-agente-rathigzs2vvskiutksxzmj.streamlit.app/
+
+![Evidencia de deploy](docs/screenshot_deploy.png)
+
 ---
 
 ## 📚 Base de conocimiento
@@ -181,9 +185,7 @@ streamlit run src/app.py
 
 ## ☁️ Deploy
 
-**🔗 Aplicación funcionando:** `<pega aquí tu URL real, por ejemplo https://alura-agente-tuusuario.streamlit.app>`
-
-*(agrega aquí una captura de pantalla de la app funcionando en el navegador)*
+**🔗 Aplicación funcionando:** `https://alura-agente-rathigzs2vvskiutksxzmj.streamlit.app/`
 
 Se desplegó en **[Streamlit Community Cloud / Hugging Face Spaces / OCI — deja solo la que usaste]**.
 Pasos completos de despliegue (incluye las tres opciones) en [`DEPLOY.md`](./DEPLOY.md).
